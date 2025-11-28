@@ -6,12 +6,23 @@ This repository contains simple Java programs for learning and practice. Each pr
 
 - **Quiz Game:**  
   A simple command-line quiz game that asks multiple-choice questions and tracks the user’s score.  
-  _Location:_ `quiz-game/Main.java`
+  _Location:_ `java-quiz-game/Main.java`
 
 - **Dice Roller:**  
   Classic Rock, Paper, Scissors game against the computer, using random choice and user input.  
-  _Location:_ `rock-paper-scissor/Main.java`
+  _Location:_ `dice-roller-game/Main.java`
 
+- **Slot Machine:**  
+  A simple command-line quiz game that asks multiple-choice questions and tracks the user’s score.  
+  _Location:_ `java-slots/Main.java`
+
+- **Banking program:**  
+  A simple command-line quiz game that asks multiple-choice questions and tracks the user’s score.  
+  _Location:_ `banking-program/Main.java`
+
+- **Rock Paper Scissor:**  
+  A simple command-line quiz game that asks multiple-choice questions and tracks the user’s score.  
+  _Location:_ `rock-paper-scissor/Main.java`
 
 ## How to Run Each Program
 
